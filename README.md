@@ -1,5 +1,5 @@
 # Mobil-Uyumlu-HTML-CSS-Kisisel-Web-Sayfasi
-Sadece HTML ve CSS kullanılarak yapılmıştır.
+Sadece HTML ve CSS kullanılarak mobil uyumlu yapılmıştır.
 
 # Sayfalar :
 - index  
